@@ -1,9 +1,12 @@
 td {
-  transition: all 2s;
+  transition: all 0.5s;
 }
 td:hover {
   background: #376638;
   color: white;
+}
+table {
+  transition: all 0.5s;
 }
 table:hover {
   -webkit-transform: scale(1.3);
